@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Comment</comment>
+<entry key="HCM_TILE_DIR">C:\Geo\Topo\E010</entry>
+<entry key="HCM_DIR">C:\Geo\Topo</entry>
+</properties>
