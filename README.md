@@ -1,6 +1,6 @@
 # HCM-Viewer 1.0.0
 
-![image](https://github.com/NeuralCortex/SRTM_Viewer/blob/main/images/srtm.png)
+![image](https://github.com/NeuralCortex/HCM_Viewer/blob/main/images/hcm.png)
 
 ## Funktionsweise des Programms
 
