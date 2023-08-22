@@ -9,8 +9,6 @@ Es besitzt die gleiche Funktionalität des SRTM-Viewers, unterscheidet sich aber
 Im HCM-Viewer können SRTM-Dateien im HCM-Format eingelesen und angezeigt werden.</br>
 Dabei werden 2 Arten von Dateien unterstützt - Topografische und Morphologische Dateien.</br>
 Testdaten wurden unter folgenden [Link](http://www.hcm-agreement.eu/http/englisch/verwaltung/index_europakarte.htm) veröffentlicht.</br>
-Die Topografischen und Morphologischen Daten sind zentrale Eingaben für den [HCM-Algorithmus](https://github.com/5chufti/HCM_V7).</br>
-Zusammen mit den Grenzlinien einer bestimmten Region sind damit Funkverträglichkeitsuntersuchungen einer Funkzelle möglich.
 
 ## How the program works
 
@@ -19,8 +17,6 @@ It has the same functionality as the SRTM viewer, but differs in the format of t
 SRTM files in HCM format can be read and displayed in the HCM viewer.</br>
 2 types of files are supported - topographical and morphological files.</br>
 Test data was published under the following [Link](http://www.hcm-agreement.eu/http/englisch/verwaltung/index_europakarte.htm).</br>
-The topographic and morphological data are central inputs for the [HCM algorithm](https://github.com/5chufti/HCM_V7).</br>
-Together with the border lines of a specific region, radio compatibility tests of a radio cell are possible.
 
 ## Aufbau einer Datei
 
