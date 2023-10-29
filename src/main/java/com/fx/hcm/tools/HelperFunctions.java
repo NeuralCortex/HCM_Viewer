@@ -110,7 +110,6 @@ public class HelperFunctions {
 
             byte[] bytes = new byte[nBytesToRead];
             reader.read(bytes);
-
             for (int i = 0; i < nBytesToRead / 2; i++) {
                 byte[] slice = Arrays.copyOfRange(bytes, 0 + (2 * i), 2 + (2 * i));
                 ByteBuffer buffer = ByteBuffer.wrap(slice);
