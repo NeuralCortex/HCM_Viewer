@@ -1,6 +1,7 @@
 package com.fx.hcm;
 
 import java.nio.ByteOrder;
+import java.util.Locale;
 
 public class Globals {
 
@@ -16,6 +17,8 @@ public class Globals {
 
     //Debug Infos - Ein / Aus
     public static boolean DEBUG = true;
+
+    public static final Locale DEFAULT_LOCALE = Locale.US;
 
     //Show Test-UI (Managed UI Ein / Aus)
     public static boolean SHOW_TEST_UI = false;
